@@ -8,7 +8,7 @@ TODO
 * ~~Make a Todo list~~  
 * ~~Put the Todo list on gihub~~
 * Fork some cool projects using trending languages and pretend to work on them.
-* Fork the trending languages's repo and pretend to work on that.
+* Fork the trending languages' repo and pretend to work on that.
 * Do some name dropping.
 * Golang
 * Make an opinionated statement about something computer related, and subtly insinuate that i would do it _much_ better.
